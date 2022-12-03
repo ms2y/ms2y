@@ -1,6 +1,6 @@
 - I’m Michael
 - Tetris
-- Learning Javascript
+- java, javascript, kotlin, and html
 - i do stuff
 - 📫 mycoel#1273
 
