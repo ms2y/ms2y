@@ -1,10 +1,3 @@
-- I’m Michael
-- Tetris
-- java, javascript, kotlin, and html
-- i do stuff
-- 📫 mycoel#1273
-
-<!---
-MyCoel/MyCoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://64.media.tumblr.com/dd86ec051142eb2115b87417d43424cc/tumblr_p7pgr1DteG1vpf6ddo1_400.gif" />
+</p>
