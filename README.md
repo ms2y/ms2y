@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://tooltech.neocities.org/Untitled526_20240323214747.png" />
-  <img src="https://tooltech.neocities.org/Untitled557_20240407195736.png" />
+  <img src="https://tooltech.neocities.org/small.png" />
+  <img src="https://tooltech.neocities.org/small2.png" />
 </p>
