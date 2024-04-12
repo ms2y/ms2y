@@ -3,5 +3,5 @@
 </a>
 
 <a href="https://ms2y.net/">
-<img src="https://ms2y.net/ms2ybutton.png" alt="meow" class="center">
+<img src="https://ms2y.net/ms2ybutton.png" alt="meow">
 </a>
